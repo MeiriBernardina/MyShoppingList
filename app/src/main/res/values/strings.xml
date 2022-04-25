@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyShoppingList</string>
+
+    <!-- Tela Principal -->
+    <string name="toogle_close">Close</string>
+    <string name="toogle_open">Open</string>
+
+    <!-- Tela UsuarioCadastro -->
+    <string name="usuario_cadastro_nome">Nome</string>
+    <string name="usuario_cadastro_email">E-mail</string>
+    <string name="usuario_cadastro_senha">Senha</string>
+    <string name="usuario_cadastro_cadastrar">CADASTRAR</string>
+    <string name="usuario_cadastro_titulo">Cadastro de Usuário</string>
+
+    <!-- Tela Login -->
+    <string name="usuario_login_entrar">ENTRAR</string>
+    <string name="usuario_login_titulo">Login</string>
+
+    <!-- Tela Perfil -->
+    <string name="usuario_perfil_sobrenome">Sobrenome</string>
+    <string name="usuario_perfil_renda">Renda Familiar</string>
+    <string name="usuario_perfil_logradouro">Logradouro (Avenida, Rua...)</string>
+    <string name="usuario_perfil_numero">Número</string>
+    <string name="usuario_cadastro_complemento">Complemento</string>
+    <string name="usuario_cadastro_bairro">Bairro</string>
+    <string name="usuario_cadastro_cidade">Cidade</string>
+    <string name="usuario_cadastro_cep">CEP</string>
+    <string name="usuario_perfil_atualizar">ATUALIZAR</string>
+    <string name="usuario_perfil_titulo">Perfil</string>
+
+    <!-- Tela categoria -->
+    <string name="categoria_cadastro_nome">Nome</string>
+    <string name="categoria_cadastro_cadastrar">Cadastrar</string>
+
+
+    <string name="menu_drawer_home">Home</string>
+    <string name="menu_drawer_minha_conta">Minha Conta</string>
+    <string name="menu_drawer_categorias">Categorias</string>
+    <string name="menu_drawer_sair">Sair</string>
+
+
+
+
+</resources>
